@@ -19,3 +19,8 @@ class Solution:
         nums = k
         n = print(len(k),', nums = ',nums)
         return n
+    
+'''
+Runtime: 51 ms, faster than 20.90% of Python3 online submissions for Remove Element.
+Memory Usage: 14.2 MB, less than 48.59% of Python3 online submissions for Remove Element.
+'''
